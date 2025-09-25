@@ -1,0 +1,16 @@
+{
+  "name": "npm_feb25",
+  "version": "1.0.0",
+  "description": "A Simple NodeJs API App",
+  "main": "d1arems.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node d1arems.js"
+  },
+  "author": "Oladayo Aremu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mocha": "^11.7.2"
+  }
+}
